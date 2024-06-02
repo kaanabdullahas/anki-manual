@@ -1,8 +1,7 @@
-Best viewed on the website: https://docs.ankiweb.net
+En iyi https://docs.ankiweb.net web sitesinde görüntülenir.
 
-This manual is licensed under the CC BY-SA 4 license:
+Bu kılavuz CC BY-SA 4 lisansı altında lisanslanmıştır:
 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Pull requests are welcome. Unless you state otherwise, any pull requests you
-submit will be licensed under the above license.
+Bu repo pull requestlere açıktır. Aksini belirtmediğiniz sürece, değişiklikleriniz ve katkılarınız yukarıdaki lisans altında lisanslanacaktır.
