@@ -1,25 +1,19 @@
-# Packaged Decks
+# Deste Paketleri
 
 <!-- toc -->
 
-Anki packages (.apkg files) enable you to import decks, notes, notetypes, and cards from
-other users. They are commonly shared on [AnkiWeb](https://ankiweb.net/shared/decks).
+Anki paketleri (.apkg dosyaları); desteleri, notları, notetypelar ve başka kullanıcıların hazırladığı kartları içe aktarmanıza yararlar. [AnkiWeb](https://ankiweb.net/shared/decks) üzerinde diğer kullanıcıların paylaştığı desteleri bulabilirsiniz.
 
-## Scheduling
+## Planlama
 
-Anki packages may also contain scheduling information, which is useful if you want to
-transfer decks between devices or profiles. However, when importing
-a deck shared by someone else, you typically do not want to adopt their card intervals
-or review history.
+Anki paketleri, cihazlar veya profiller arası taşıma yaparken işe yarayan planlama bilgilerini içerebilir. 
+Ancak, genellikle başka birinin paylaştığı desteleri içe aktarırken onların kart aralıklarını yada tekrar geçmişlerini edinmek istemezsiniz.
 
-If you encounter imported cards with unexpectedly large intevals, the deck author may
-accidentally have included their scheduling information. You can use the
-[Set Due Date feature](../browsing.md#cards) to reset the imported cards. On Anki
-23.10 and later, you can remove any scheduling information during the import process
-by leaving the "Import any learning progress" option unselected. This will also remove
-any "leech" or "marked" tags from the imported cards.
+Eğer içe aktardığınız kartlarda, beklenenden çok daha fazla zaman aralıkları bulunuyorsa; desteyi oluşturan kişi yanlışlıkla kendi planlama bilgilerini eklemiş olabilirler. 
+[Son tarihi ayarla](../browsing.md#cards) özelliğini kullanarak içe aktarılan kartların planlama bilgilerini sıfırlayabilirsiniz. 
+Anki 23.10 ve sonrasında "Import any learning progress" seçeneğini seçilmemiş bırakarak da planlama bilgilerini kaldırabilirsiniz. Bu aynı zamanda kartlardaki işaret etiketlerini de kaldırır.
 
-## Updating
+## Güncelleme
 
 When you import an .apkg file, Anki will identify any notes in it that are
 already in your collection due to a previous import. If the notes in the file
