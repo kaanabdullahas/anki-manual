@@ -1,9 +1,9 @@
 [book]
 authors = ["Ankitects Pty Ltd and contributors"]
-language = "en"
+language = "tr"
 multilingual = false
 src = "src"
-title = "Anki Manual"
+title = "Anki Kurulum ve Kullanım Kılavuzu (Türkçe)"
 
 [build]
 create-missing = true
@@ -13,7 +13,7 @@ command = "mdbook-toc"
 renderer = ["html"]
 
 [output.html]
-git-repository-url = "https://github.com/ankitects/anki-manual/"
+git-repository-url = "https://github.com/ankitects/anki-manual/" //Didn't know should i change this so i left it
 cname = "docs.ankiweb.net"
 additional-css = ["css/misc.css", "css/kbd.css"]
 
