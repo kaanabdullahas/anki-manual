@@ -1,10 +1,10 @@
 [book]
 authors = ["Ankitects Pty Ltd and contributors"]
-description = "Anki's user manual. Anki is a flashcard program that makes learning easier."
-language = "en"
+description = "Anki Kurulum ve Kullanım Kılavuzu. Anki öğrenmeyi kolaylaştıran bir flashcard uygulamasıdır"
+language = "tr"
 multilingual = false
 src = "src"
-title = "Anki Manual"
+title = "Anki Kurulum ve Kullanım Kılavuzu "
 
 [build]
 create-missing = true
@@ -14,8 +14,8 @@ command = "mdbook-toc"
 renderer = ["html"]
 
 [output.html]
-git-repository-url = "https://github.com/ankitects/anki-manual/"
-cname = "docs.ankiweb.net"
+git-repository-url = "https://github.com/ankitects/anki-manual/" #will update 
+cname = "docs.ankiweb.net" #will update
 additional-css = ["css/misc.css", "css/kbd.css"]
 mathjax-support = true
 
