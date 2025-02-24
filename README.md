@@ -1,25 +1,24 @@
-# Anki Manual
+# Anki Kurulum ve Kullanım Kılavuzu 
 
-This repository contains the source of [Anki's user manual](https://docs.ankiweb.net).
+Bu repository [Anki Kullanım Kılavuzu](https://docs.ankiweb.net).nun kaynak dosyalarını içerir.
 
-## License 
+## Lisans 
 
-This manual is licensed under the [CC BY-SA 4 license](https://creativecommons.org/licenses/by-sa/4.0/).
+Bu kılavuz [CC BY-SA 4 lisansı](https://creativecommons.org/licenses/by-sa/4.0/). altında lisanslanmıştır 
 
-## Contributing
+## Katkı 
 
-Contributions are welcome! Please see the [issue tracker](https://github.com/ankitects/anki-manual/issues) for things you can start working on. For details on local development, see [CONTRIBUTING](CONTRIBUTING.md).
+Sizin de katkılarınızı bekliyoruz! Üzerinde çalışabileceğiniz şeyler için [issue tracker (Sorun Takipçisi)](https://github.com/ankitects/anki-manual/issues)'ni kontrol edebilirsiniz. Cihazınızda yerel olarak çalışmak için [Katkıda Bulunma](CONTRIBUTING.md) sayfasını kontrol edin.
 
-Unless stated otherwise, any pull requests you
-submit will be licensed under the [CC BY-SA 4 license](https://creativecommons.org/licenses/by-sa/).
+Aksini belirtmediğiniz sürece, bütün pull requestler'iniz  [CC BY-SA 4 lisansı](https://creativecommons.org/licenses/by-sa/) altında lisanslanır.
 
-## Style Guidelines
+## Stillendirme Kuralları
 
-The following conventions are not consistently applied in the manual. If you find such text, feel free to change it.
+Aşağıdaki kurallar tüm kılavuzda düzgünce uygulanmamış olabilir. Eğer uygulanmamış kısımlara denk gelirseniz, değiştirmekten çekinmeyin.
 
-- Use double quotes, `"`, instead of single quotes, `'`.
-- For emphasis such as when defining a word, use italics, `_`.
-- Also use italics when referring to a word itself rather than what it means, e.g. "To search for either _dog_ or _cat_, use `dog or cat`".
-- When referring to UI elements, use bold formatting, `**`.
-- When referring to keyboard buttons, wrap them with `<kbd></kbd>`.
-- Use code formatting for example inputs by wrapping them with backticks, `` ` ``.
+- Tek tırnak yerine `'`, çift tırnak kullanın `"`.
+- Kelime anlamı açıklamak gibi vurgu gerektiren yerlerde, kelimeyi italik yapın `_`.
+- Aynı zamanda kelimeyi bağlam dışında kullanırken de italik yapın, örneğin "_kedi_ veya _köpek_ araması için, `kedi veya köpek` yazın".
+- Arayüz elementlerinden bahsederken, bold formatlandırma kullanın, `**`.
+- Klavye tuşlarından bahsederken `<kbd></kbd>` etiketleri arasında yazın.
+- Örnek girdileri, geri tırnak işareti `` ` `` ile sararak formatlandırın.
